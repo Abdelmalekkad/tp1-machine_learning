@@ -1,7 +1,7 @@
 # Machine Learning - TP1: Data Exploration and Preprocessing
 
 **Student:** Kaddour Abdelmalek Islam  
-**Class:** 1st Year Master - ENSTA  
+  
 
 ## Project Overview
 This repository contains the solution for Practical Session 1 on data exploration and preprocessing using pandas, scikit-learn, and seaborn.
